@@ -5,6 +5,3 @@
 - 📫 How to reach me ...3862274018 -kodasdadstasiasdad@gmail.com
 
 <!---
-cpoteat-max/cpoteat-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
